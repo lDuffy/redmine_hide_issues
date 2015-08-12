@@ -1,3 +1,5 @@
 = redmine_hide_issues
 
-Description goes here
+This plugin is A simple plugin whos sole purpous is to only show projects on the projects and issues screen of the tool.  At present the projects screen shows both projects and issues, My plugin overrides the process of loading Issues in order to hide them at the touch of a button.
+
+In order to install, clone this project into the plugins section of redmine. No migrations needed.
